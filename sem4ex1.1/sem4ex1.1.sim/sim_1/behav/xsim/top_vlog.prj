@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../sem4ex1.1.srcs/sources_1/ip/dist_mem_im_3/sim/dist_mem_im.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/Ctrl.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/DM.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/EXT.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/PC.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/PCPlusAdder.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/PCPlusOffsetAdder.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/RF.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/addr_mux.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/alu.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/alu_mux.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/data_mux.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/sccomp.v" \
+"../../../../sem4ex1.1.srcs/sources_1/new/seg7x16.v" \
+"../../../../sem4ex1.1.srcs/sim_1/new/top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

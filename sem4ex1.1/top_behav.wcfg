@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="60000001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="130"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/top/clkIn" type="logic">
+      <obj_property name="ElementShortName">clkIn</obj_property>
+      <obj_property name="ObjectShortName">clkIn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/rstIn" type="logic">
+      <obj_property name="ElementShortName">rstIn</obj_property>
+      <obj_property name="ObjectShortName">rstIn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/sw_i" type="array">
+      <obj_property name="ElementShortName">sw_i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">sw_i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_PC/addrIn" type="array">
+      <obj_property name="ElementShortName">addrIn[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addrIn[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_PC/rstn" type="logic">
+      <obj_property name="ElementShortName">rstn</obj_property>
+      <obj_property name="ObjectShortName">rstn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_PC/clk_cpu" type="logic">
+      <obj_property name="ElementShortName">clk_cpu</obj_property>
+      <obj_property name="ObjectShortName">clk_cpu</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_PC/addrOut" type="array">
+      <obj_property name="ElementShortName">addrOut[31:0]</obj_property>
+      <obj_property name="ObjectShortName">addrOut[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_PC/PC_NUM" type="array">
+      <obj_property name="ElementShortName">PC_NUM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_NUM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/rstn" type="logic">
+      <obj_property name="ElementShortName">rstn</obj_property>
+      <obj_property name="ObjectShortName">rstn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/RFWr" type="logic">
+      <obj_property name="ElementShortName">RFWr</obj_property>
+      <obj_property name="ObjectShortName">RFWr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/A1" type="array">
+      <obj_property name="ElementShortName">A1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">A1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/A2" type="array">
+      <obj_property name="ElementShortName">A2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">A2[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/A3" type="array">
+      <obj_property name="ElementShortName">A3[4:0]</obj_property>
+      <obj_property name="ObjectShortName">A3[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/WD" type="array">
+      <obj_property name="ElementShortName">WD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">WD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/RD1" type="array">
+      <obj_property name="ElementShortName">RD1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/RD2" type="array">
+      <obj_property name="ElementShortName">RD2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/rf" type="array">
+      <obj_property name="ElementShortName">rf[31:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">rf[31:0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top/u_sccomp/U_RF/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+</wave_config>

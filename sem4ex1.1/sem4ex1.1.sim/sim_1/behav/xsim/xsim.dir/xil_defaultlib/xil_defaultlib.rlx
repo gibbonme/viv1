@@ -1,0 +1,20 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sim_1/new/top.v,1714048025,verilog,,,,top,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/ip/dist_mem_im_3/sim/dist_mem_im.v,1714046785,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/Ctrl.v,,dist_mem_im,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/Ctrl.v,1711070324,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/DM.v,,Ctrl,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/DM.v,1711205735,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/EXT.v,,DM,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/EXT.v,1710720422,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/PC.v,,EXT,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/PC.v,1711202026,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/PCPlusAdder.v,,PC,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/PCPlusAdder.v,1710732606,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/PCPlusOffsetAdder.v,,PCPlusAdder,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/PCPlusOffsetAdder.v,1710732606,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/RF.v,,PCPlusOffsetAdder,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/RF.v,1711032236,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/addr_mux.v,,RF,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/addr_mux.v,1710690423,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/alu.v,,addr_mux,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/alu.v,1711207876,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/alu_mux.v,,alu,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/alu_mux.v,1710515235,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/data_mux.v,,alu_mux,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/data_mux.v,1711206404,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/sccomp.v,,data_mux,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/sccomp.v,1714048148,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/seg7x16.v,,sccomp,,,,,,,,
+D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sources_1/new/seg7x16.v,1710682189,verilog,,D:/vivadoproject/sem4ex1.1/sem4ex1.1.srcs/sim_1/new/top.v,,seg7x16,,,,,,,,
